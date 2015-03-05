@@ -1,0 +1,14 @@
+
+
+body{
+    background-image: url(http://24.media.tumblr.com/42f9f478c6d5e8e996c7844785691b74/tumblr_mfz6wcZhuD1qbxy2xo1_500.gif);
+      background-repeat: no-repeat;
+    background-position: center;
+    background-size:1500px;
+}
+/*text color*/
+.title1{
+   color:darkturquoise ;
+   text-align: center;
+   font-family: 'Lobster', cursive;
+   font-size: 70px;
